@@ -1,4 +1,4 @@
-# Birtdaywish using python script by Alex Sylvain Luenga
+# Birthdaywish using python script by Alex Sylvain Luenga
 Realm Digital Simple Practical Assessment Intermediate Developer  
 The first thing we do is import six libraries: 
 1.pandas
