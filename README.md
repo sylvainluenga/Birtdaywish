@@ -1,7 +1,7 @@
 # Birthdaywish using python script by Alex Sylvain Luenga
 Realm Digital Simple Practical Assessment Intermediate Developer  
 The first thing we do is import six libraries: 
-1.pandas
+1.pandas 
 2.datetime
 3.smtplib
 4.time
